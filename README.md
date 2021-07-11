@@ -1,2 +1,5 @@
 # psych-learn
-Brain Understanding with EEG and fMRI
+One Stop Physiological Signal Processing Framework
+
+[x]. Artifact detection and correction using ICA
+[x]. Rhythmic Feature Extraction
